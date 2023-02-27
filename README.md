@@ -9,23 +9,22 @@
   <samp>I also 3D model. Check out this little guy I made</samp>
 </p>
 
-
 <details align="center">
 
-<summary><b><samp>Curious little bugger?</samp></b></summary>
+<summary><b><samp>Want a lil' more?</samp></b></summary>
 <samp>
-  <b><h2 style="color: #fc6203">S O  Y O U  A R E  A  C U R I O U S  L I T T L E  B U G G E R</h2> </b>
+  <b><h2 style="color: #fc6203">You're a hungry little bugger!</h2> </b>
+  <p>Say hi to the trash nymph; he'll guide you through</p>
+  <img src="https://github.com/Musilix/Musilix/main/assets/fly.png" width="200"/>
 
-  <img src="" width="200"/>
-
-  Current Project: <a href="https://github.com/Musilix/Pipplio">Pipplio</a>
+Current Project: <a href="https://github.com/Musilix/Pipplio">Pipplio</a>
 
   <p align="center">
-    <img src="" width="30px" alt="Portfolio"></a>
-    <img src="" width="30px" alt="LinkedIn"></a>
-    <img src="" width="30px" alt="Instagram"></a>
-    <img src="" width="30px" alt="LeetCode"></a>
-    <img src="" width="30px" alt="StackOverflow"></a>
+    <img src="https://github.com/Musilix/Musilix/main/assets/site_prev.webp" width="30px" alt="Portfolio"></a>
+    <img src="https://github.com/Musilix/Musilix/main/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
+    <img src="https://github.com/Musilix/Musilix/main/assets/instagram.png" width="30px" alt="Instagram"></a>
+    <img src="https://github.com/Musilix/Musilix/main/assets/leetcode.png" width="30px" alt="LeetCode"></a>
+    <img src="https://github.com/Musilix/Musilix/main/assets/stackoverflow.png" width="30px" alt="StackOverflow"></a>
   </p> 
 </samp>
 </details>
