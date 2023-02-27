@@ -26,11 +26,21 @@
 Current Project: <a href="https://github.com/Musilix/Pipplio">Pipplio</a>
 
   <p align="center">
-    <img src="https://github.com/Musilix/Musilix/blob/main/assets/site_prev.webp" width="30px" alt="Portfolio"></a>
-    <img src="https://github.com/Musilix/Musilix/blob/main/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-    <img src="https://github.com/Musilix/Musilix/blob/main/assets/instagram.png" width="30px" alt="Instagram"></a>
-    <img src="https://github.com/Musilix/Musilix/blob/main/assets/leetcode.png" width="30px" alt="LeetCode"></a>
-    <img src="https://github.com/Musilix/Musilix/blob/main/assets/stackoverflow.png" width="30px" alt="StackOverflow"></a>
+    <a href="https://www.kareemshehab.com/">
+      <img src="https://github.com/Musilix/Musilix/blob/main/assets/site_prev.webp" width="30px" alt="Portfolio">
+    </a>
+    <a href="https://www.linkedin.com/in/kareemshehab-a95162154/">
+      <img src="https://github.com/Musilix/Musilix/blob/main/assets/linkedin.png" width="30px" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/keem.korn/">
+      <img src="https://github.com/Musilix/Musilix/blob/main/assets/instagram.png" width="30px" alt="Instagram">
+    </a>
+    <a href="https://leetcode.com/keemkorn/">
+      <img src="https://github.com/Musilix/Musilix/blob/main/assets/leetcode.png" width="30px" alt="LeetCode">
+    </a>
+    <a href="https://stackoverflow.com/users/7471743/musilix">
+      <img src="https://github.com/Musilix/Musilix/blob/main/assets/stackoverflow.png" width="30px" alt="StackOverflow">
+    </a>
   </p> 
 </samp>
 </details>
