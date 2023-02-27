@@ -4,17 +4,19 @@
   <h2>Hey, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.kareemshehab.com">Kareem</a></b>!</h2>
     <br>
     I'm a passionate developer that's been programming since 2016. I'm dedicated to full stack development, but I have a sweet spot for the front end and the freedom of creativity that often follows along with it. 
-    <br>
-  
+   <br>
+  <br>
+  <br>
   <samp align="center">
-    <div><img src="https://github.com/Musilix/Musilix/blob/main/assets/mrfrosty.png" width="650"/></div>
+    <div><img src="https://github.com/Musilix/Musilix/blob/main/assets/mrfrosty.png" width="450"/></div>
     <div><samp>I'm also 3D artist. Check out this little guy I made</samp></div>
   </samp>
 </p>
 </div>
 
 <details align="center">
-
+  <br>
+  <br>
 <summary><b><samp>Want a lil' more?</samp></b></summary>
 <samp>
   <b><h2 style="color: #fc6203">You're a hungry little bugger!</h2> </b>
