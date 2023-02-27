@@ -1,13 +1,17 @@
+<div align="center">
 <p align="center">
   <br>
-  <samp>
-    Hey I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.kareemshehab.com">Kareem</a></b>!
-    <br>I'm a passionate developer that's been programming since 2016. I'm dedicated to full stack development, but I have a sweet spot for the front end and the freedom of creativity that often follows along with it. <br>
+  <h2>Hey, I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.kareemshehab.com">Kareem</a></b>!</h2>
+    <br>
+    I'm a passionate developer that's been programming since 2016. I'm dedicated to full stack development, but I have a sweet spot for the front end and the freedom of creativity that often follows along with it. 
+    <br>
+  
+  <samp align="center">
+    <div><img src="https://github.com/Musilix/Musilix/blob/main/assets/mrfrosty.png" width="650"/></div>
+    <div><samp>I'm also 3D artist. Check out this little guy I made</samp></div>
   </samp>
-
-  <img src="https://github.com/Musilix/Musilix/blob/main/assets/mrfrosty.png" width="200"/>
-  <samp>I also 3D model. Check out this little guy I made</samp>
 </p>
+</div>
 
 <details align="center">
 
