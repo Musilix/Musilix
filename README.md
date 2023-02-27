@@ -6,7 +6,7 @@
   </samp>
 
   <img src="" width="200"/>
-  <p>I also 3D model. Check out this little guy I made</p>
+  <samp>I also 3D model. Check out this little guy I made</samp>
 </p>
 
 
