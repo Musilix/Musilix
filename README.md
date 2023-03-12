@@ -19,8 +19,8 @@
   <br>
 <summary><b><samp>Want a lil' more?</samp></b></summary>
 <samp>
-  <b><h2 style="color: #fc6203">You're a hungry little bugger!</h2> </b>
-  <p>Say hi to the trash nymph; he'll guide you through</p>
+  <b><h2 style="color: #fc6203">You're a hungry little scoundrel</h2> </b>
+  <p>Say hi to the trash nymph; he'll guide you through this mess</p>
   <img src="https://github.com/Musilix/Musilix/blob/main/assets/fly.png" width="200"/>
 
 Current Project: <a href="https://github.com/Musilix/Pipplio">Pipplio</a>
