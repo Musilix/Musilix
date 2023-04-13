@@ -23,8 +23,10 @@
   <p>Say hi to the trash nymph; he'll guide you through this mess</p>
   <img src="https://github.com/Musilix/Musilix/blob/main/assets/fly.png" width="200"/>
 
-Current Project: <a href="https://github.com/Musilix/Pipplio">Pipplio</a>
-
+  Current Project(s): [
+  <a href="https://github.com/Musilix/Pipplio">Pipplio</a>,
+  <a href="https://github.com/Musilix/GiftList">GiftList</a>
+  ]
   <p align="center">
     <a href="https://www.kareemshehab.com/">
       <img src="https://github.com/Musilix/Musilix/blob/main/assets/site_prev.webp" width="30px" alt="Portfolio">
